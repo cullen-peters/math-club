@@ -1,2 +1,2 @@
-# math-club
-Files for DKU Midnight/Bubble Tea Math lectures
+# Math Club
+Files for DKU Midnight/BubbleTea Math Club lectures
